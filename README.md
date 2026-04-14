@@ -14,42 +14,18 @@ I am solving assignments, writing programs, and building logic step-by-step to s
 ---
 
 ## 📂 Project Structure
-Python_Journey/
+Python_Journey
+├── Assignments
+│ ├── day1 → 15 questions
+│ ├── day2 → 8 questions
+│ ├── day3 → 15 questions
+│ └── day4 → 16 questions
 │
-├── Assignments/
-│ ├── day1/
-│ │ ├── Que1.py
-│ │ ├── Que2.py
-│ │ ├── Que3.py
-│ │ ├── ...
-│ │ └── Que15.py
-│ │
-│ ├── day2/
-│ │ ├── que1.py
-│ │ ├── que2.py
-│ │ └── que8.py
-│ │
-│ ├── day3/
-│ │ ├── que1.py
-│ │ ├── ...
-│ │ └── que15.py
-│ │
-│ └── day4/
-│ ├── que1.py
-│ ├── ...
-│ └── que16.py
-│
-├── Python_Batch/
-│ ├── bin_to_dec.py
-│ ├── deci_to_bin.py
-│ ├── decimal.py
-│ ├── demo1.py
-│ ├── demo2.py
-│ ├── input.py
-│ ├── output.py
-│ └── variable.py
-│
-└── README.md
+├── Python_Batch
+│ ├── Basics & demos
+│ ├── Input / Output
+│ ├── Number conversions
+│ └── Practice files
 
 ---
 
