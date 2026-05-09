@@ -21,15 +21,39 @@ Palindrome Numbers are:
 181
 191'''
 
-num1 = int(input("Enter starting number: "))
-num2 = int(input("Enter ending number: "))
-print("Pollindrome Numbers are: ")
+sn = int(input("Enter starting number: "))
+en = int(input("Enter ending number: "))
+print("Palindrome Numbers are: ")
+# rev = 0
+# i=sn
+# while i<0:
+#     temp=i
+#     r=temp%10
+#     rev=rev*10+d
+#     temp=temp//10
 
-while num1<=num2:
-    org = num1
-    rev=""
-    for i in str(num1):
-        rev=i+rev
-    if str(org)==rev:
-        print(num1)
-    num1+=1
+# i=sn
+# while i<=en:
+#     rev=0
+#     j=i
+#     while j>0:
+#         mod=j%10
+#         j=j//10
+#         rev=(rev*10)+mod
+#     if i==rev:
+#         print(i)
+#     i=i+1
+
+
+while sn<=en:
+    rev = 0
+    j=sn
+    while j>0:
+        dig = j%10
+        rev = (rev*10)+ dig
+        j=j//10
+    if sn == rev:
+        print(sn)
+    sn+=1
+
+
