@@ -4,7 +4,7 @@ login = False
 
 while True:
 
-    print("\nWelcome to A-z Portal")
+    print("\nWelcome")
     print("Here you can find all functionalities listed below:")
     print("1.Login/Register")
     print("2.Readings")
