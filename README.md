@@ -2,51 +2,43 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Status](https://img.shields.io/badge/Progress-Ongoing-green)
-![Days](https://img.shields.io/badge/Days-4-orange)
+![Days](https://img.shields.io/badge/Days-35-orange)
 
 ---
 
-## 📌 About
+A collection of my daily Python practice, assignments, and learning progress.
 
-This repository contains my **daily Python practice and learning journey**.  
-I am solving assignments, writing programs, and building logic step-by-step to strengthen my fundamentals.
+About
+
+This repository contains:
+
+Python basics practice
+Assignment questions
+Logic building programs
+Daily learning updates
+
+The main goal of this repo is to improve problem-solving skills and build strong Python fundamentals step by step.
 
 ---
 
 ## 📂 Project Structure
 Python_Journey
+
 ├── Assignments
-│ ├── day1 → 15 questions
-│ ├── day2 → 8 questions
-│ ├── day3 → 15 questions
-│ └── day4 → 16 questions
+
+│   ├── All Assignments
+
 │
 ├── Python_Batch
-│ ├── Basics & demos
-│ ├── Input / Output
-│ ├── Number conversions
-│ └── Practice files
 
----
+│   ├── Some code files
 
-## 📅 Daily Progress
+│
+├── Projects
 
-### ✅ Day 1
-- Basics (variables, input/output)
-- Assignment Questions (Que1 → Que15)
+│   ├── Some projects with basic functionalities
 
-### ✅ Day 2
-- Data Types
-- Assignment Questions (Que1 → Que8)
-
-### ✅ Day 3
-- operators
-- Assignment Questions (Que1 → Que15)
-
-### ✅ Day 4
-- basic logical questions
-- Assignment Questions (Que1 → Que16)
-
+│   └── Practice files
 ---
 
 ## 📁 Folder Details
@@ -91,15 +83,7 @@ Python_Journey
 
 ---
 
-## 📈 Progress Tracker
 
-✔️ Day 1 Completed  
-✔️ Day 2 Completed  
-✔️ Day 3 Completed  
-✔️ Day 4 Completed  
-🔄 Continuing...  
-
----
 
 ## 👨‍💻 Author
 
@@ -107,5 +91,7 @@ Python_Journey
 🔗 https://github.com/Harshendra-45  
 
 ---
+
+⭐ If you like this repo, consider giving it a star!
 
 ⭐ If you like this repo, consider giving it a star!
