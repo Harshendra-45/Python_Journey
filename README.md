@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Status](https://img.shields.io/badge/Progress-Ongoing-green)
-![Days](https://img.shields.io/badge/Days-4-orange)
+![Days](https://img.shields.io/badge/Days-35-orange)
 
 ---
 
@@ -23,7 +23,9 @@ The main goal of this repo is to improve problem-solving skills and build strong
 
 ## 📂 Project Structure
 Python_Journey
+
 ├── Assignments
+
 │   ├── All Assignments
 │
 ├── Python_Batch
@@ -31,6 +33,21 @@ Python_Journey
 │
 ├── Projects
 │   ├── Some projects with basic functionalities
+
+
+│   ├── All Assignments
+
+│
+├── Python_Batch
+
+│   ├── Some code files
+
+│
+├── Projects
+
+│   ├── Some projects with basic functionalities
+
+
 │   └── Practice files
 ---
 
@@ -84,5 +101,7 @@ Python_Journey
 🔗 https://github.com/Harshendra-45  
 
 ---
+
+⭐ If you like this repo, consider giving it a star!
 
 ⭐ If you like this repo, consider giving it a star!
