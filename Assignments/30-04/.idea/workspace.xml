@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d481eba-3567-4ec3-872d-0c9b92be4c40" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../nested loops/08-05 class/pattern.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nested loops/palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/../nested loops/palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Patterns all/Pattern 13 may/23.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Patterns all/Pattern 13 may/23.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,6 +122,8 @@
       <workItem from="1777546707036" duration="432000" />
       <workItem from="1777547712936" duration="11000" />
       <workItem from="1778240624034" duration="18000" />
+      <workItem from="1779516599868" duration="33000" />
+      <workItem from="1781027859758" duration="38000" />
     </task>
     <servers />
   </component>
