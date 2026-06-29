@@ -24,31 +24,39 @@ The main goal of this repo is to improve problem-solving skills and build strong
 ## 📂 Project Structure
 Python_Journey
 
+Python-Journey
+│
 ├── Assignments
-
-│   ├── All Assignments
+│   ├── Basics
+│   ├── Functions
+│   ├── Strings
+│   ├── Lists
+│   ├── Tuples
+│   ├── Sets
+│   ├── Dictionary
+│   ├── Patterns
+│   ├── Nested Loops
+│   └── Practice
 │
 ├── Python_Batch
-│   ├── Some code files
+│   ├── Daily Class Codes
+│   ├── Examples
+│   ├── Programs
+│   └── Notes
 │
 ├── Projects
-│   ├── Some projects with basic functionalities
-
-
-│   ├── All Assignments
-
+│   ├── Basic Projects
+│   ├── Intermediate Projects
+│   ├── Advanced Projects
+│   └── Django Projects
 │
-├── Python_Batch
-
-│   ├── Some code files
-
+├── Practice
+│   ├── DSA
+│   ├── LeetCode
+│   ├── HackerRank
+│   └── Interview Questions
 │
-├── Projects
-
-│   ├── Some projects with basic functionalities
-
-
-│   └── Practice files
+└── README.md
 ---
 
 ## 📁 Folder Details
