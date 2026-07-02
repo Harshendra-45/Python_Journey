@@ -1,1 +1,1 @@
-from . import doc_management
+from .doc_management import showdoc,adddoc
