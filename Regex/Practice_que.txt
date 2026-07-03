@@ -1,0 +1,40 @@
+1. Problem Statement:
+Write a Python program to match a string that has an a followed by one or more bs (e.g., ab, abb, but not a).Given    Input: test_strings = ["a", "ab", "abb", "abbb", "b", "ba"]
+
+Expected Output:
+
+a      -> No match
+ab     -> Match
+abb    -> Match
+abbb   -> Match
+b      -> No match
+ba     -> No match  
+
+2. Problem Statement:
+Write a Python program to find sequences of lowercase letters joined with an underscore (e.g., hello_world).
+Given Input: test_strings = ["hello_world", "foo_bar", "hello", "hello_", "_world", "Hello_world", "hello_World"]
+
+Expected Output:
+
+hello_world  -> Match
+foo_bar      -> Match
+hello        -> No match
+hello_       -> No match
+_world       -> No match
+Hello_world  -> No match
+hello_World  -> No match
+
+3. Problem Statement: 
+Write a Python program to extract the year, month, and day components from a URL string formatted as https://example.com/yyyy/mm/dd/article-slug
+Given Input: urls = ["https://example.com/2026/05/22/my-article", "https://news.site.org/2019/11/03/breaking-story", "https://blog.example.com/2023/07/30/summer-update"]
+
+Expected Output:
+
+URL: https://example.com/2026/05/22/my-article
+  Year: 2026 | Month: 05 | Day: 22
+
+URL: https://news.site.org/2019/11/03/breaking-story
+  Year: 2019 | Month: 11 | Day: 03
+
+URL: https://blog.example.com/2023/07/30/summer-update
+  Year: 2023 | Month: 07 | Day: 30
