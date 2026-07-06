@@ -24,39 +24,75 @@ The main goal of this repo is to improve problem-solving skills and build strong
 ## 📂 Project Structure
 Python_Journey
 
-Python-Journey
+📦 Python_Journey
+├── 📂 Assignments
+│   ├── 📂 day1
+│   ├── 📂 day2
+│   ├── 📂 day3
+│   ├── 📂 day4
+│   ├── 📂 day5
+│   ├── 📂 day6
+│   ├── 📂 day7
+│   ├── 📂 day8
+│   │
+│   ├── 📂 Strings
+│   │   ├── 15 May
+│   │   ├── 18 May
+│   │   ├── 19 May
+│   │   ├── 20 May
+│   │   ├── 21 May
+│   │   ├── 22 May
+│   │   └── 150 Questions
+│   │
+│   ├── 📂 Dictionary
+│   │   ├── 11 June
+│   │   └── 12 June
+│   │
+│   ├── 📂 Tuple
+│   │   ├── 04 June
+│   │   └── 05 June
+│   │
+│   ├── 📂 Set
+│   ├── 📂 Functions
+│   ├── 📂 Modules
+│   ├── 📂 Class and Objects
+│   ├── 📂 Nested Loops
+│   ├── 📂 Patterns All
+│   ├── 📂 List All
+│   │
+│   ├── 📂 Date-wise Practice
+│   │   ├── 23-04
+│   │   ├── 24-04
+│   │   ├── 27-04
+│   │   ├── 28-04
+│   │   ├── 29-04
+│   │   ├── 30-04
+│   │   ├── 02-05
+│   │   ├── 04-05
+│   │   ├── 05-05
+│   │   └── 06-05
 │
-├── Assignments
-│   ├── Basics
-│   ├── Functions
-│   ├── Strings
-│   ├── Lists
-│   ├── Tuples
-│   ├── Sets
-│   ├── Dictionary
-│   ├── Patterns
-│   ├── Nested Loops
-│   └── Practice
+├── 📂 Exercises (Self)
+│   └── 📂 OOP
+│       └── Sheet1.ipynb
 │
-├── Python_Batch
-│   ├── Daily Class Codes
-│   ├── Examples
-│   ├── Programs
-│   └── Notes
+├── 📂 Projects
+│   └── 📂 Python Projects
+│       ├── Game.py
+│       └── portal1.py
 │
-├── Projects
-│   ├── Basic Projects
-│   ├── Intermediate Projects
-│   ├── Advanced Projects
-│   └── Django Projects
+├── 📂 Python_Batch
+│   ├── Day1
+│   ├── Notes
+│   ├── Demo Programs
+│   ├── Number System Programs
+│   └── Basic Python Programs
 │
-├── Practice
-│   ├── DSA
-│   ├── LeetCode
-│   ├── HackerRank
-│   └── Interview Questions
+├── 📂 Regex
+│   ├── Practice_que.txt
+│   └── Python_Regular_expression.pdf
 │
-└── README.md
+└── 📄 README.md
 ---
 
 ## 📁 Folder Details
